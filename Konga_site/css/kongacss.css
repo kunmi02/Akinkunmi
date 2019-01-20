@@ -1,0 +1,184 @@
+body{
+    margin: 0%;
+    font-family: Ubuntu; 
+    background-color: #f2f2f2;
+}
+ul{
+    list-style-type: none;
+}
+.top_bar{
+    background-color: deeppink;
+    height: 70px;
+    width:100%;
+    display: flex;
+    padding-right: 5px;
+}
+#logo_img{
+    margin-left: 25px;
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+}
+.nav-item{
+    padding: 25px;
+    color:white;
+    padding-left: 3rem;
+}
+.search{
+    border-bottom-left-radius: .25rem;
+    border-top-left-radius: .25rem;
+    font-size: .75rem;
+    height: 100%;
+    padding-left: .625rem;
+    padding-right: .625rem;
+    width: 100%;
+}
+.menu{
+    display: flex;
+    background-color: #94004f;
+    box-shadow: 0 0.25rem 0.5rem 0 rgba(0,0,0,.12), 0 0.125rem 0.25rem 0 rgba(0,0,0,.08);
+    height: 2rem;
+    
+}
+#menu-pad{
+    padding: 7px;
+}
+.menu-item{
+    color: #fff;
+    cursor: pointer;
+    font-size: .8125rem;
+    padding: .75rem .9375rem;
+    padding-right: 2.51rem;
+}
+.banner{
+    height: 100%;
+    width: 100%;
+}
+.deal{
+    display: flex;
+    margin-left: 1.25rem;
+    padding: 0 1.25rem;   
+    
+}
+.view{
+    color: #8b054d;
+    display: block;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: .01875rem;
+    margin-left: auto;
+    padding-bottom: .1875rem;
+}
+.latest{
+    color: #000;
+    font-size: 1.25rem;
+    letter-spacing: .03125rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    max-width: 70%;
+}
+.phone{
+    display: flex;
+    padding: 0 1.25rem;
+}
+.phone li{
+    width: 250px;
+    float: left;
+    margin-left: 1.25rem;
+    height: 20.9375rem;
+}
+.phone-item{
+    height: 335px;
+    width: 228.98px;
+    background-color: #fff;
+    font-size: .9375rem;
+    
+   
+}
+.phone-img{
+    margin-top: 1rem;
+    width: auto;
+    align-content: center;
+    text-indent: -624.9375rem;
+    margin-left: .5rem;
+    
+}
+.flex{
+    display: flex;
+    padding-left: 1rem;
+}
+.phone-name{
+    align-content: center;
+    font-weight: 400;
+    height: 1.875rem;
+    margin: .3125rem 0 .625rem;
+    padding-left: 1rem;
+
+}
+.stripBanner{
+    margin-left: 1.25rem;
+    padding: 0 1.25rem; 
+    width:96%;
+}
+.starC{
+    fill: #fba100;
+}
+.shop{
+    width: 307px;
+    background-color: #fff;
+    margin-left: 1.25rem; 
+}
+.shopimg{
+    width: 307px;
+      
+}
+.shopletter{
+    color: #8b054d;
+    display: block;
+    font-size: .875rem;
+    font-weight: 700;
+    letter-spacing: .01875rem;
+    padding-left: 1rem;
+}
+.shop li{
+    width: 230px;
+    height: 410px;
+}
+.shop-text{
+    padding-left: 1rem;
+}
+.category{
+    width: 240px;
+    height: 200px;
+    background-color: #fff;
+    margin-left: 1.25rem;
+}
+.cat{
+    margin-left: 1.25rem;
+} 
+.cat-img{
+    margin-left: 4rem;
+}
+.flex-display{
+    display: flex
+}
+.cat-text{
+    font-size: .875rem;
+    padding-left: 1rem;
+}
+.footer-logo{
+    background-color: #fff;
+    padding: 1rem;
+}
+.footer-img{
+    margin-right:2rem;
+}
+.footer-note{
+    font-size:  .75rem;
+    letter-spacing: .00625rem;
+    line-height: 1.5;
+    width: auto;
+}
+.black-footer{
+    background-color: #2e2e2e;
+}
