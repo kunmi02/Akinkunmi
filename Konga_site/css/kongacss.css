@@ -13,6 +13,12 @@ ul{
     display: flex;
     padding-right: 5px;
 }
+.dropdown{
+    background-color: deeppink;
+    border: none;
+}
+
+
 #logo_img{
     margin-left: 25px;
     margin-top: 10px;
@@ -22,16 +28,14 @@ ul{
 .nav-item{
     padding: 25px;
     color:white;
-    padding-left: 3rem;
+    padding-left: 2rem;
 }
 .search{
     border-bottom-left-radius: .25rem;
     border-top-left-radius: .25rem;
     font-size: .75rem;
-    height: 100%;
-    padding-left: .625rem;
-    padding-right: .625rem;
-    width: 100%;
+    width: 310px;
+    height: :45px;
 }
 .menu{
     display: flex;
