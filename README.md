@@ -1,2 +1,2 @@
-This repo contains my web files on dufuna  internship
+This repo contains a cloned  static home page of konga.com.Coded from scratch with css and html
 
